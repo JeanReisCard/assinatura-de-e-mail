@@ -21,7 +21,7 @@
 
 <section id="faixa1">
 			<footer>
-				<p colspan='2' align='right'><font face=Calibri color=white size=2><em>Desenvolvido
+				<p colspan='2' align='right'><font face=Calibri color=white size=2><em>
 				</em> </font></p>
 			</footer>
 				
