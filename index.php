@@ -30,7 +30,7 @@
 
 
 			<section id="sectionForm">
-				<form id="formDados" method="get" action="/atakarejo/criaImagem1.php" >
+				<form id="formDados" method="get" action="criaImagem1.php" >
 					<label id="labelNome">Nome:</label>
 					<input type="text" name="nome" ng-model="nome" placeholder="Nome"  id="nome"  > <br>
 
